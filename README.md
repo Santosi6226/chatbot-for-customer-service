@@ -177,36 +177,6 @@ className="w-96 h-[500px]"  // Larger chat window
 | **Vite** | Build tool & dev server |
 | **Lucide React** | Icons |
 
----
-
-## 📦 Installation & Setup
-
-### Prerequisites
-- Node.js (v18 or higher)
-- npm or bun package manager
-
-### Steps
-
-```bash
-# 1. Clone the repository
-git clone <YOUR_GIT_URL>
-
-# 2. Navigate to project directory
-cd <YOUR_PROJECT_NAME>
-
-# 3. Install dependencies
-npm install
-# or
-bun install
-
-# 4. Start development server
-npm run dev
-# or
-bun run dev
-
-# 5. Open in browser
-# Navigate to http://localhost:5173
-```
 
 ---
 
@@ -272,6 +242,3 @@ For questions or issues:
 - Open an issue in this repository
 - Contact us through the chatbot! 😄
 
----
-
-Built with ❤️ using [Lovable](https://lovable.dev)
